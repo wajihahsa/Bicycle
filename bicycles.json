@@ -1,0 +1,5 @@
+[
+  { "name": "Mountain Bike", "type": "Off-road" },
+  { "name": "Road Bike", "type": "Speed" },
+  { "name": "Hybrid Bike", "type": "Mixed" }
+]
